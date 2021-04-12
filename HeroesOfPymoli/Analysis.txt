@@ -1,0 +1,8 @@
+        Observations about In App Purchase for Heros of Pymoli
+
+-$2,379.77 was made from in app purchases during the time period that this data was collected.
+
+-Almost 45% of the player that spend money of this game are between the ages 20 and 24.
+
+-Although females make up 84% of the total players, 
+men's purchases made up 82% of total revenue from in application purchases.
